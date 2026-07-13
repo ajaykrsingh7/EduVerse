@@ -485,13 +485,41 @@ The **Documentation** folder contains all project-related documents, resources, 
 
 #  Contributors
 
-| Photo | Name | Roll Number |
-|:---:|---|---|
-| ![Ajay Kumar Singh](Documentation/Team/ajay.jpg) | **Ajay Kumar Singh** | 27600122119 |
-| ![Aman Singh](Documentation/Team/aman.jpg) | **Aman Singh** | 27600122120 |
-| ![Himansu Kumar Singh](Documentation/Team/himansu.jpg) | **Himansu Kumar Singh** | 27600122031 |
-| ![Saksham Gupta](Documentation/Team/saksham.jpg) | **Saksham Gupta** | 27600122181 |
-| ![Rishu Raj](Documentation/Team/rishu.jpg) | **Rishu Raj** | 27600122186 |
+<table>
+<tr>
+
+<td align="center">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/ajay.jpeg?raw=true" width="180"><br>
+<b>Ajay Kumar Singh</b><br>
+27600122119
+</td>
+
+<td align="center">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/aman.jpeg?raw=true" width="180"><br>
+<b>Aman Singh</b><br>
+27600122120
+</td>
+
+<td align="center">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/himansu.jpeg?raw=true" width="180"><br>
+<b>Himansu Kumar Singh</b><br>
+27600122031
+</td>
+
+<td align="center">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/saksham.jpeg?raw=true" width="180"><br>
+<b>Saksham Gupta</b><br>
+27600122181
+</td>
+
+<td align="center">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/rishu.jpeg?raw=true" width="180"><br>
+<b>Rishu Raj</b><br>
+27600122186
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -499,11 +527,17 @@ The **Documentation** folder contains all project-related documents, resources, 
 
 <div align="center">
 
-<img src="Documentation/Team/jyotipriyo-khanra.jpg" width="180">
+<img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/mentor.jpeg?raw=true" width="220">
 
-### Mr. Jyotipriyo Khanra
+<br>
 
-**Project Guide**
+<b>Mr. Jyotipriyo Khanra</b>
+
+<br>
+
+Project Guide
+
+<br>
 
 Budge Budge Institute of Technology
 
@@ -519,43 +553,62 @@ Budge Budge Institute of Technology
 | Project Type  | Final Year Project                                            |
 | College       | Budge Budge Institute of Technology                           |
 | University    | Maulana Abul Kalam Azad University of Technology, West Bengal |
-| Academic Year | 2022 - 2026                                                          |
+| Academic Year | 2022 - 2026                                                   |
 
 ---
 
 #  Contributing
 
-Contributions are welcome for educational improvements.
+Contributions, suggestions, and improvements are welcome for educational purposes.
+
+If you would like to contribute:
 
 1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
+2. Create a new branch (git checkout -b feature/NewFeature).
+3. Make your changes.
+4. Commit your changes (git commit -m "Add new feature").
+5. Push the branch (git push origin feature/NewFeature).
+6. Create a Pull Request.
+
+All contributions should maintain clean code practices and proper documentation.
 
 ---
 
-#  License
+##  License
 
-This project has been developed **strictly for educational and academic purposes** as part of a Final Year Project.
+This project has been developed for **educational and academic purposes only** as part of the Final Year Project.
 
-Commercial use is not permitted without the permission of the project contributors.
+The source code and documentation are provided for learning and demonstration purposes.
 
----
+Any commercial usage, redistribution, or modification requires permission from the project contributors.
 
 #  Acknowledgements
 
-Special thanks to our faculty guide **Mr. Jyotipriyo Khanra** for his guidance and support throughout the development of this project.
+We would like to express our sincere gratitude to everyone who supported us throughout the development of this project.
 
-We also acknowledge **Budge Budge Institute of Technology** and **Maulana Abul Kalam Azad University of Technology, West Bengal** for providing the academic environment and resources that made this project possible.
+Special thanks to:
+
+- **Mr. Jyotipriyo Khanra**  
+  Project Guide, Budge Budge Institute of Technology
+
+- **Budge Budge Institute of Technology**
+  for providing the academic environment and resources required for project development.
+
+- **Maulana Abul Kalam Azad University of Technology, West Bengal**
+  for providing the academic framework and guidance for this Final Year Project.
+
+We also acknowledge the open-source community and developers whose tools and technologies helped us build this application.
 
 ---
 
 <div align="center">
 
-###  If you found this project helpful, consider giving it a Star!
+## Thank You for Visiting EduVerse.
 
-Thank you for visiting the EduVerse repository.
+If you found this project interesting, consider giving it a star ⭐ on GitHub.
+
+Made with ❤️ by the EduVerse Team.
 
 </div>
+
 ---
