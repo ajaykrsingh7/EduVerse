@@ -620,4 +620,3 @@ If you find this project helpful, innovative, or inspiring, consider giving it a
 © 2026 EduVerse. All Rights Reserved.
 
 </div>
----
