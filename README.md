@@ -603,12 +603,21 @@ We also acknowledge the open-source community and developers whose tools and tec
 
 <div align="center">
 
-## Thank You for Visiting EduVerse.
+---
 
-If you found this project interesting, consider giving it a star ⭐ on GitHub.
+###  Thank You for Exploring EduVerse
 
-Made with ❤️ by the EduVerse Team.
+We appreciate your interest in **EduVerse**.  
+If you find this project helpful, innovative, or inspiring, consider giving it a ⭐ on GitHub — it helps us grow and improve.
+
+<br>
+
+**Built with ❤️ by the EduVerse Team**  
+*Final Year Project | B.Tech Computer Science & Engineering*
+
+<br>
+
+© 2026 EduVerse. All Rights Reserved.
 
 </div>
-
 ---
