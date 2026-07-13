@@ -502,7 +502,7 @@ The **Documentation** folder contains all project-related documents, resources, 
 
 <td align="center">
 <img src="https://github.com/ajaykrsingh7/EduVerse/blob/main/Documentation/Team/himansu.jpeg?raw=true" width="180"><br>
-<b>Himansu Kumar Singh</b><br>
+<b>Himansu Kr. Singh</b><br>
 27600122031
 </td>
 
